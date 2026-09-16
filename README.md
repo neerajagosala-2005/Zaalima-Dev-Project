@@ -4,7 +4,7 @@ A scalable E-Commerce application developed using Java, Spring Boot and Microser
 
 ## 🚀 Project Overview
 
-This project is an E-Commerce backend built using multiple independent microservices. 
+This project is an E-Commerce backend built using multiple independent microservices.
 The services communicate through REST APIs and Kafka-based event-driven communication.
 
 ## 🛠️ Technologies Used
@@ -83,14 +83,17 @@ The API Gateway provides routes for:
 - Inventory Service
 - Payment Service
 - Notification Service
+
 ## 🖥️ Frontend Screenshot
 
 ![E-Commerce Frontend](./Screenshot%202026-09-16%20191508.png)
+
 ## 🏠 Eureka Server Dashboard
 
 ![Eureka Dashboard 1](./Screenshot%202026-09-16%20192619.png)
 
 ![Eureka Dashboard 2](./Screenshot%202026-09-16%20192724.png)
+
 ## 💻 Frontend Features
 
 - Display products
@@ -115,15 +118,15 @@ The API Gateway provides routes for:
 11. Start API Gateway.
 12. Start the React frontend.
 
-Frontend:
+### Frontend
 
 http://localhost:5174/
 
-Eureka Dashboard:
+### Eureka Dashboard
 
 http://localhost:8761/
 
-API Gateway:
+### API Gateway
 
 http://localhost:8080/
 
