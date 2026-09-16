@@ -88,9 +88,9 @@ The API Gateway provides routes for:
 ![E-Commerce Frontend](./Screenshot%202026-09-16%20191508.png)
 ## 🏠 Eureka Server Dashboard
 
-![Eureka Dashboard 1](./Eureka%20Screenshot%201.png)
+![Eureka Dashboard 1](./Screenshot%202026-09-16%20192619.png)
 
-![Eureka Dashboard 2](./Eureka%20Screenshot%202.png)
+![Eureka Dashboard 2](./Screenshot%202026-09-16%20192724.png)
 ## 💻 Frontend Features
 
 - Display products
