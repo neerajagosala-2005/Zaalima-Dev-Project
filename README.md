@@ -83,6 +83,9 @@ The API Gateway provides routes for:
 - Inventory Service
 - Payment Service
 - Notification Service
+## 🖥️ Frontend Screenshot
+
+![E-Commerce Frontend](./Screenshot%202026-09-16%20191508.png)
 
 ## 💻 Frontend Features
 
